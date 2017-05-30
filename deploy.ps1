@@ -9,3 +9,5 @@ if (1 -eq 1)
 echo "hi"
 
 $num = 1 + 1
+
+echo "hello mars!"
